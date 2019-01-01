@@ -2,13 +2,13 @@
 
 int main()
 {
-	printf("ÀÌ¸§:");
+	printf("ì´ë¦„:");
 	scanf_s("%d", &name);
 
-	print("ÁÖ¼Ò:");
+	print("ì£¼ì†Œ:");
 	scanf_s("%d", &address);
 
-	printf("ÀüÈ­¹øÈ£:");
+	printf("ì „í™”ë²ˆí˜¸:");
 	scanf_s("%d", &number);
 
 	return 0;
